@@ -67,8 +67,6 @@ Plus 不包含 OpenAI API 额度。网页端订阅和开发者 API 是两套独�
 
 ![LoveYouAI ChatGPT Plus 与 Pro 充值套餐页面](../assets/images/loveyouai-chatgpt-recharge.png)
 
-> 图片位置建议：放在代充方案介绍之后。图片说明应注明“价格和活动以页面实时显示为准”。
-
 ## ChatGPT Plus 代充的一般流程
 
 不同平台细节可能不同，但通常包括以下步骤：
