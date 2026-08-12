@@ -1,0 +1,22 @@
+title: LoveYouAI ChatGPT 国内充值教程
+description: ChatGPT Plus 与 Pro 国内充值、支付宝微信支付、代充平台选择和安全注意事项。
+url: ""
+baseurl: /loveyouai-chatgpt-recharge
+lang: zh-CN
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - LICENSE
+
